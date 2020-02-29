@@ -151,9 +151,9 @@
 
 # Konfigurasi
 1. Melakukan pengubahan nama user tampilan, dengan menekan ikon user dipojok kanan atas
-   ![0 1](https://user-images.githubusercontent.com/39584996/75612665-53d5ed80-5b58-11ea-8d2b-0aa3961be93c.png)
-2. Mengganti Gambar dan Nama
    ![0](https://user-images.githubusercontent.com/39584996/75612666-55071a80-5b58-11ea-8148-9e6a8a2b8d38.png)
+2. Mengganti Gambar dan Nama
+   ![0 1](https://user-images.githubusercontent.com/39584996/75612665-53d5ed80-5b58-11ea-8d2b-0aa3961be93c.png)
    
 # Cara Penggunaan
 Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan interface yang *User Friendly*. Berikut penggunaan lebih jelasnya :
@@ -172,7 +172,7 @@ Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan int
 6. Recurring profile atau profil pembayaran rutin pada opencart merupakan fitur yang memungkinkan bagi kamu sebagai pengelola toko online untuk melakukan pengaturan psistem pembayaran rutin bagi pelanggan
    ![recurring](https://user-images.githubusercontent.com/39584996/75612790-73b9e100-5b59-11ea-954b-a36d2c7d9113.png)
 7. Filter Group, untuk melakukan multi filtering
-   ![filter](https://user-images.githubusercontent.com/39584996/75612594-9fd46280-5b57-11ea-80bd-b3b929d88749.png)
+   ![filter](https://user-images.githubusercontent.com/39584996/75613153-ea0c1280-5b5c-11ea-97c4-bcb586421588.png)
 8. Attribute
    ![12](https://user-images.githubusercontent.com/39584996/75612798-98ae5400-5b59-11ea-8b27-9b911e4cc09c.png)
 9. Option, mengatur elemen kecil web
