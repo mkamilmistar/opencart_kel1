@@ -138,6 +138,16 @@
 14. Kunjungi alamat IP web server untuk melakukan instalasi **OpenCart**
     * Setujui persyaratan yang berlaku
     ![persyaratan](https://user-images.githubusercontent.com/39584996/75612040-94cb0380-5b52-11ea-985e-836705a16830.png)
+    * Pre-Instalation untuk mengecek requirement penginstalan, kalau sudah pilih continue
+    ![pre-install](https://user-images.githubusercontent.com/39584996/75612067-d78cdb80-5b52-11ea-9468-bdf75f1bb13a.png)
+    * Konfigurasi Database
+    ![database](https://user-images.githubusercontent.com/39584996/75612153-8c26fd00-5b53-11ea-9e72-f5a12b43eba2.png)
+    * Instalasi telah dilakukan
+    ![Done](https://user-images.githubusercontent.com/39584996/75612210-1ec79c00-5b54-11ea-80bd-44322510a9ab.png)
+15. Setelah melakukan instalasi, untuk alasan keamanan, hapus direktori install.
+    ```
+    $ sudo rm -rf /var/www/html/opencart/upload/install
+    ```
 
 ## Referensi
 1. [About OpenCart](https://www.opencart.com/index.php?route=cms/company)
