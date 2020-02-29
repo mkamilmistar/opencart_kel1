@@ -215,10 +215,18 @@ Akan tetapi dibalik kelebihan tersebut, terdapat kelemahan dari **OpenCart** sep
 * Pilihan theme dan modul yang sederhana, kecuali untuk yang berbayar
 * Fungsi yang masih sulit untuk difahami
 
-Akan tetapi, dibandingkan dengan website lain 
+Akan tetapi, dibandingkan dengan e-commerce lain seperti **Magento**, CMS ini memiliki kelebihan dan kekurangan, seperti :
+* Magento lebih `populer dan support` lebih dibandingkan opencart
+* Magento memiliki `extention` yang lebih banyak dibandingkan opencart
+* OpenCart lebih `mudah` digunakan dibandingkan Magento
+* Sama-sama open-source
+* Magento memiliki tingkat secure yang lebih baik
+* Sama-sama bisa multi-store
+* Sama-sama mudah dikustomisasi
 
 # Referensi
 1. [About OpenCart](https://www.opencart.com/index.php?route=cms/company)
 2. [How to Install OpenCart On Ubuntu 18.04 Server](https://cloudcone.com/docs/article/install-opencart-on-ubuntu-18-04-server/)
 3. [5 Benefits That Make OpenCart Rock](https://www.shopping-cart-migration.com/carts-reviews/opencart/12797-5-benefits-that-make-opencart-rock)
 4. [Kelebihan & Kekurangan OpenCart](http://cyber-blog95.blogspot.com/2016/04/kelebihan-kekurangan-opencart.html)
+5. [Magento vs OpenCart](https://magenticians.com/magento-vs-opencart-comparison/)
