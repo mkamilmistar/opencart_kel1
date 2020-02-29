@@ -17,6 +17,6 @@
 * Xml
 
 ### Proses Instalasi
-1. Nyalakan server, lalu login kedalam server dengan menggunakan SSH
+1. Nyalakan server, lalu login kedalam server dengan menggunakan SSH <br>
 <code>$ ssh student@localhost -p 2200</code>
 2. ko
