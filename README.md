@@ -157,7 +157,7 @@
    
 # Cara Penggunaan
 Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan interface yang *User Friendly*. Berikut penggunaan lebih jelasnya :
-1. Lakukan login ke administrator 
+1. Lakukan login ke administrator <br/>
    ![login](https://user-images.githubusercontent.com/39584996/75612373-52ef8c80-5b55-11ea-8d00-1a6f36e824fb.png)
 2. Memindahkan storage directory ke luar directory web
    ![move_dir](https://user-images.githubusercontent.com/39584996/75612410-a06bf980-5b55-11ea-8e95-0388a0f51b9c.png)
@@ -172,15 +172,35 @@ Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan int
 6. Recurring profile atau profil pembayaran rutin pada opencart merupakan fitur yang memungkinkan bagi kamu sebagai pengelola toko online untuk melakukan pengaturan psistem pembayaran rutin bagi pelanggan
    ![recurring](https://user-images.githubusercontent.com/39584996/75612790-73b9e100-5b59-11ea-954b-a36d2c7d9113.png)
 7. Filter Group, untuk melakukan multi filtering
-   ![filterps://user-images.githubusercontent.com/39584996/75612594-9fd46280-5b57-11ea-80bd-b3b929d88749.png)
+   ![filter](https://user-images.githubusercontent.com/39584996/75612594-9fd46280-5b57-11ea-80bd-b3b929d88749.png)
 8. Attribute
    ![12](https://user-images.githubusercontent.com/39584996/75612798-98ae5400-5b59-11ea-8b27-9b911e4cc09c.png)
-9. 
+9. Option, mengatur elemen kecil web
    ![13](https://user-images.githubusercontent.com/39584996/75612871-3d309600-5b5a-11ea-9ca0-cad0d679ba5d.png)
+10. Manufactures, manajemen manufaktur barang
    ![14](https://user-images.githubusercontent.com/39584996/75612872-3e61c300-5b5a-11ea-827b-00955f62c54f.png)
+11. Downloads, Melihat user yang melakukan download
    ![15](https://user-images.githubusercontent.com/39584996/75612873-3efa5980-5b5a-11ea-974a-cb428997df30.png)
+12. Reviews, Melihat Review produk yang ada
    ![16](https://user-images.githubusercontent.com/39584996/75612874-3f92f000-5b5a-11ea-9e69-3577e9683d38.png)
+13. Informations, page informasi yang ditampilkan ke user
    ![17](https://user-images.githubusercontent.com/39584996/75612875-402b8680-5b5a-11ea-808b-55e59987bdc9.png)
+14. Dan masih banyak menu-menu lain yang bermanfaat banyak untuk pengelolaan web ini, seperti **Extentions** yang berguna untuk menambah add-ons untuk menunjang kinerja web tersebut,
+   ![18](https://user-images.githubusercontent.com/39584996/75613009-7584a400-5b5b-11ea-867c-0aada8d24c3e.png)
+   ![20](https://user-images.githubusercontent.com/39584996/75613026-a5cc4280-5b5b-11ea-8ce1-de0457c512de.png)
+15. Lalu ada **Design** untuk mengatur tampilan dari web tersebut, baik menggunakan thema ataupun layout editor
+   ![20](https://user-images.githubusercontent.com/39584996/75613026-a5cc4280-5b5b-11ea-8ce1-de0457c512de.png)
+16. Lalu ada **Sales** yang mengatur manajemen orderan barang, seperti pengembalian, order yang terjadi, dan lain-lain
+   ![22](https://user-images.githubusercontent.com/39584996/75613060-0b203380-5b5c-11ea-9cad-be39bfa99d8e.png)
+17. Lalu ada **Customers** yang berisi manajemen user yang terdaftar
+   ![23](https://user-images.githubusercontent.com/39584996/75613078-360a8780-5b5c-11ea-9bdc-e3e20423d08a.png)
+18. **Marketing**, mengatur marketing yang ada diweb
+   ![25](https://user-images.githubusercontent.com/39584996/75613087-5a666400-5b5c-11ea-9bc0-f4d2f7360f03.png)
+19. **Reports**, berisikan laporan mengenai website
+   ![26](https://user-images.githubusercontent.com/39584996/75613105-6fdb8e00-5b5c-11ea-9a88-b9c39ae59353.png)
+20. **System**, menu untuk mempermudah konfigurasi website, baik itu konfigurasi umum maupun konfigurasi lanjutan
+   ![27](https://user-images.githubusercontent.com/39584996/75613122-939ed400-5b5c-11ea-8914-7d1365769bee.png)
+
 
 ## Referensi
 1. [About OpenCart](https://www.opencart.com/index.php?route=cms/company)
