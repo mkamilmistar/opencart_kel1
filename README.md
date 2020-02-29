@@ -201,7 +201,24 @@ Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan int
 20. **System**, menu untuk mempermudah konfigurasi website, baik itu konfigurasi umum maupun konfigurasi lanjutan
    ![27](https://user-images.githubusercontent.com/39584996/75613122-939ed400-5b5c-11ea-8914-7d1365769bee.png)
 
+# Pembahasan
+**OpenCart** memiliki fitur yang sangat lengkap, yang suport dengan berbagai macam jenis database, seperti `MySQL` atau `MariaDB`, sehingga memiliki banyak **kelebihan** seperti diantaranya:
+* *Simple* dalam setup cms tersebut, seperti konfigurasi awal dan pengaturan tampilan
+* *Performa dan Usability* yang baik, openchart sendiri menggunakan `AJAX technology` yang membuat load time lebih sedikit
+* *Multi-Store Functionality* yang membuat openchart bisa mengelola multi store
+* *Harga* yang open-source
+* Banyak *Features and Extensions* gratis
 
-## Referensi
+Akan tetapi dibalik kelebihan tersebut, terdapat kelemahan dari **OpenCart** seperti :
+* Bagi pengguna awam sering mengalami kesulitan saat instalasi ketika harus rename config-dist menjadi config dan harus delete folder install, tidak secara otomatis terhapus.
+* Halaman login admin masih harus mengetikan di address bar yaitu localhost/opencart/upload/admin, belum ada link khusus di website.
+* Pilihan theme dan modul yang sederhana, kecuali untuk yang berbayar
+* Fungsi yang masih sulit untuk difahami
+
+Akan tetapi, dibandingkan dengan website lain 
+
+# Referensi
 1. [About OpenCart](https://www.opencart.com/index.php?route=cms/company)
 2. [How to Install OpenCart On Ubuntu 18.04 Server](https://cloudcone.com/docs/article/install-opencart-on-ubuntu-18-04-server/)
+3. [5 Benefits That Make OpenCart Rock](https://www.shopping-cart-migration.com/carts-reviews/opencart/12797-5-benefits-that-make-opencart-rock)
+4. [Kelebihan & Kekurangan OpenCart](http://cyber-blog95.blogspot.com/2016/04/kelebihan-kekurangan-opencart.html)
