@@ -19,14 +19,14 @@
 ### Proses Instalasi
 1. Nyalakan server, lalu login kedalam server dengan menggunakan SSH <br>
 <code>$ ssh student@localhost -p 2200</code>
-2. Lalu set repository server <br>
-<code> sudo tee /etc/apt/sources.list << !
+2. Lalu set repository server <br/>
+<code>$ sudo tee /etc/apt/sources.list << !
 deb http://repo.apps.cs.ipb.ac.id/ubuntu bionic main restricted universe multiverse
 deb http://repo.apps.cs.ipb.ac.id/ubuntu bionic-updates main restricted universe multiverse
-deb http://repo.apps.cs.ipb.ac.id/ubuntu bionic-security main restricted universe multiverse
+deb http://repo.apps.cs.ipb.ac.id/ubuntu bionic-security main restricted universe multiverse <br/>
 !
 </code>
-3. Lakukan pengecekan update terhadap sistem, lalu lakukan penginstalan *requirement* untuk **OpenCart** seperti **PHP, Apache, MariaDB serta PHP modul yang dibutuhkan.** <br>
+3. Lakukan pengecekan update terhadap sistem, lalu lakukan penginstalan *requirement* untuk **OpenCart** seperti **PHP, Apache, MariaDB serta PHP modul yang dibutuhkan.** <br/>
 <code>
 $ sudo apt-get update -y
 $ sudo apt-get install apache2
