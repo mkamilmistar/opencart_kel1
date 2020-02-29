@@ -149,6 +149,39 @@
     $ sudo rm -rf /var/www/html/opencart/upload/install
     ```
 
+# Konfigurasi
+1. Melakukan pengubahan nama user tampilan, dengan menekan ikon user dipojok kanan atas
+   ![0 1](https://user-images.githubusercontent.com/39584996/75612665-53d5ed80-5b58-11ea-8d2b-0aa3961be93c.png)
+2. Mengganti Gambar dan Nama
+   ![0](https://user-images.githubusercontent.com/39584996/75612666-55071a80-5b58-11ea-8148-9e6a8a2b8d38.png)
+   
+# Cara Penggunaan
+Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan interface yang *User Friendly*. Berikut penggunaan lebih jelasnya :
+1. Lakukan login ke administrator 
+   ![login](https://user-images.githubusercontent.com/39584996/75612373-52ef8c80-5b55-11ea-8d00-1a6f36e824fb.png)
+2. Memindahkan storage directory ke luar directory web
+   ![move_dir](https://user-images.githubusercontent.com/39584996/75612410-a06bf980-5b55-11ea-8e95-0388a0f51b9c.png)
+3. Setelah melakukan login dan pemindahan directory storage, kita akan dihadapkan dengan tampilan dashboard website yang berisi statistik dari website tersebut, seperti hasil penjualan, jumlah customer dan lain-lain
+   ![dashboard](https://user-images.githubusercontent.com/39584996/75612686-87b11300-5b58-11ea-8c57-30da0000f18e.png)
+4. Di *Navigasi* kita akan menemukan banyak sekali pilihan menu yang bisa digunakan, terdapat menu **Catalog** yang berisi seperti Categories, yang berguna untuk sorting produk berdasarkan jenis barang
+   ![Categories](https://user-images.githubusercontent.com/39584996/75612743-0443f180-5b59-11ea-8a38-5657a16ed8d5.png)
+   ![8 1](https://user-images.githubusercontent.com/39584996/75612753-132aa400-5b59-11ea-96c8-a12b46ae394e.png)
+5. Lalu ada Poducts yang merupakan halaman yang berisi produk yang akan kita jual, disini juga merupakan tempat untuk memanajemen produk yang dijual, seperti harga, diskon dan lain-lain
+   ![Products](https://user-images.githubusercontent.com/39584996/75612776-538a2200-5b59-11ea-976a-c25d7fa89f42.png)
+   ![9](https://user-images.githubusercontent.com/39584996/75612778-54bb4f00-5b59-11ea-9c2c-55fa92b50c12.png)
+6. Recurring profile atau profil pembayaran rutin pada opencart merupakan fitur yang memungkinkan bagi kamu sebagai pengelola toko online untuk melakukan pengaturan psistem pembayaran rutin bagi pelanggan
+   ![recurring](https://user-images.githubusercontent.com/39584996/75612790-73b9e100-5b59-11ea-954b-a36d2c7d9113.png)
+7. Filter Group, untuk melakukan multi filtering
+   ![filterps://user-images.githubusercontent.com/39584996/75612594-9fd46280-5b57-11ea-80bd-b3b929d88749.png)
+8. Attribute
+   ![12](https://user-images.githubusercontent.com/39584996/75612798-98ae5400-5b59-11ea-8b27-9b911e4cc09c.png)
+9. 
+   ![13](https://user-images.githubusercontent.com/39584996/75612871-3d309600-5b5a-11ea-9ca0-cad0d679ba5d.png)
+   ![14](https://user-images.githubusercontent.com/39584996/75612872-3e61c300-5b5a-11ea-827b-00955f62c54f.png)
+   ![15](https://user-images.githubusercontent.com/39584996/75612873-3efa5980-5b5a-11ea-974a-cb428997df30.png)
+   ![16](https://user-images.githubusercontent.com/39584996/75612874-3f92f000-5b5a-11ea-9e69-3577e9683d38.png)
+   ![17](https://user-images.githubusercontent.com/39584996/75612875-402b8680-5b5a-11ea-808b-55e59987bdc9.png)
+
 ## Referensi
 1. [About OpenCart](https://www.opencart.com/index.php?route=cms/company)
 2. [How to Install OpenCart On Ubuntu 18.04 Server](https://cloudcone.com/docs/article/install-opencart-on-ubuntu-18-04-server/)
