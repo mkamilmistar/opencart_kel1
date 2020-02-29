@@ -136,7 +136,8 @@
     ```
 
 14. Kunjungi alamat IP web server untuk melakukan instalasi **OpenCart**
-  
+    * Setujui persyaratan yang berlaku
+    ![persyaratan](https://user-images.githubusercontent.com/39584996/75612040-94cb0380-5b52-11ea-985e-836705a16830.png)
 
 ## Referensi
 1. [About OpenCart](https://www.opencart.com/index.php?route=cms/company)
