@@ -6,7 +6,7 @@
 # About OpenCart
 **OpenCart** merupakan aplikasi webstore (toko online) yang berbasis PHP dan MySQL yang dapat dikelola dengan sistem CMS *(Content Management System)*, dimana untuk penggunaannya bersifat terbuka *(OpenSource)* dan gratis untuk siapa saja. Aplikasi webstore ini digunakan dengan lisensi GNU *(General Public License).*
 
-[`^ Kembali ke atas ^`](#)
+[`^ Kembali ke atas ^`](#) <br/>
 # Instalasi
 ### Kebutuhan Sistem
 * Web Server (Apache)
@@ -158,7 +158,7 @@
     ```
 
 # Konfigurasi
-[`^ Kembali ke atas ^`](#)
+[`^ Kembali ke atas ^`](#)<br/>
 ### Menambah Plugin
 1. Sebelum melakukan instalasi plugin, terlebih dahulu kita harus membuat akun opencart di [Register OpenCart](https://www.opencart.com/index.php?route=account/register), untuk mendapatkan `API Marketplace`
 
@@ -208,8 +208,8 @@ Maintenance yang bisa dilakukan oleh **OpenCart** adalah melakukan backup/restor
    ![3](https://user-images.githubusercontent.com/39584996/75620083-b6f66d00-5bb6-11ea-8f7f-6b8e0a3a3e1d.png)
 5. Tunggu hingga proses import selesai
 
-# Otomatisasi
-[`^ Kembali ke atas ^`](#)
+# Otomatisasi 
+[`^ Kembali ke atas ^`](#) <br/>
 Terdapat beberapa cara dalam melakukan otomatisasi pemasangan **OpenCart** atau beberapa CMS lain, yaitu dengan penginstalan dengan menjalankan `script shell` yang biasanya berekstensi `.sh`, akan tetapi sedikit rumit untuk dilakukan karena harus memahami cara membuat dari script tersebut. 
 Lalu alternatif lain yang lebih mudah adalah menggunakan bantuan dari fitur yang biasanya terdapat pada `panel hosting` dari `web-hosting provider` itu sendiri, mereka akan menginstal script secara otomatis pada website tujuan, yang biasa dipakai oleh banyak kalangan adalah `Installatron`, karena mudah tanpa perlu melakukan login, untuk melakukan instalasinya, yang perlu dilakukan adalah :
 1. Kunjungi link ini [Installatron](https://installatron.com/opencart), lalu pilih menu `Install this application` yang berada dipojok kanan atas
@@ -221,7 +221,7 @@ Lalu alternatif lain yang lebih mudah adalah menggunakan bantuan dari fitur yang
 3. Tunggu hingga proses instalasi selesai dilakukan
 
 # Cara Penggunaan
-[`^ Kembali ke atas ^`](#)
+[`^ Kembali ke atas ^`](#) <br/>
 Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan interface yang *User Friendly*. Berikut penggunaan lebih jelasnya :
 1. Lakukan login ke administrator <br/>
    ![login](https://user-images.githubusercontent.com/39584996/75612373-52ef8c80-5b55-11ea-8d00-1a6f36e824fb.png)
