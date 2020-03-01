@@ -20,6 +20,7 @@
 * Xml
 
 ### Proses Instalasi
+[`^ Kembali ke atas ^`](#)
 1. Nyalakan server, lalu login kedalam server dengan menggunakan SSH
     ```
     $ ssh student@localhost -p 2200
@@ -153,12 +154,14 @@
     ```
 
 # Konfigurasi
+[`^ Kembali ke atas ^`](#)
 1. Melakukan pengubahan nama user tampilan, dengan menekan ikon user dipojok kanan atas
    ![0](https://user-images.githubusercontent.com/39584996/75612666-55071a80-5b58-11ea-8148-9e6a8a2b8d38.png)
 2. Mengganti Gambar dan Nama
    ![0 1](https://user-images.githubusercontent.com/39584996/75612665-53d5ed80-5b58-11ea-8d2b-0aa3961be93c.png)
    
 # Cara Penggunaan
+[`^ Kembali ke atas ^`](#)
 Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan interface yang *User Friendly*. Berikut penggunaan lebih jelasnya :
 1. Lakukan login ke administrator <br/>
    ![login](https://user-images.githubusercontent.com/39584996/75612373-52ef8c80-5b55-11ea-8d00-1a6f36e824fb.png)
@@ -205,6 +208,7 @@ Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan int
    ![27](https://user-images.githubusercontent.com/39584996/75613122-939ed400-5b5c-11ea-8914-7d1365769bee.png)
 
 # Pembahasan
+[`^ Kembali ke atas ^`](#)
 **OpenCart** memiliki fitur yang sangat lengkap, yang suport dengan berbagai macam jenis database, seperti `MySQL` atau `MariaDB`, sehingga memiliki banyak **kelebihan** seperti diantaranya:
 * *Simple* dalam setup cms tersebut, seperti konfigurasi awal dan pengaturan tampilan
 * *Performa dan Usability* yang baik, openchart sendiri menggunakan `AJAX technology` yang membuat load time lebih sedikit
@@ -228,6 +232,7 @@ Akan tetapi, dibandingkan dengan e-commerce lain seperti **Magento**, CMS ini me
 * Sama-sama mudah dikustomisasi
 
 # Referensi
+[`^ Kembali ke atas ^`](#)
 1. [About OpenCart](https://www.opencart.com/index.php?route=cms/company)
 2. [How to Install OpenCart On Ubuntu 18.04 Server](https://cloudcone.com/docs/article/install-opencart-on-ubuntu-18-04-server/)
 3. [5 Benefits That Make OpenCart Rock](https://www.shopping-cart-migration.com/carts-reviews/opencart/12797-5-benefits-that-make-opencart-rock)
