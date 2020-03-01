@@ -1,3 +1,5 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/39584996/75613465-9a2f4a80-5b60-11ea-994c-28e81d587fef.jpg" width="800"></p>
+
 # About OpenCart
 **OpenCart** merupakan aplikasi webstore (toko online) yang berbasis PHP dan MySQL yang dapat dikelola dengan sistem CMS *(Content Management System)*, dimana untuk penggunaannya bersifat terbuka *(OpenSource)* dan gratis untuk siapa saja. Aplikasi webstore ini digunakan dengan lisensi GNU *(General Public License).*
 
