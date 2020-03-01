@@ -1,6 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/39584996/75613465-9a2f4a80-5b60-11ea-994c-28e81d587fef.jpg" width="800"></p>
 
 | [About OpenCart](https://github.com/mkamilmistar/opencart_kel1#about-opencart) | [Konfirgurasi](https://github.com/mkamilmistar/opencart_kel1#konfigurasi) | [Maintenance](https://github.com/mkamilmistar/opencart_kel1#maintenance) | [Otomatisasi](https://github.com/mkamilmistar/opencart_kel1#maintenance) | [Cara Penggunaan](https://github.com/mkamilmistar/opencart_kel1#cara-penggunaan) | [Pembahasan](https://github.com/mkamilmistar/opencart_kel1#pembahasan) | [Referensi](https://github.com/mkamilmistar/opencart_kel1#pembahasan) | 
+| ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |
 
 # About OpenCart
 **OpenCart** merupakan aplikasi webstore (toko online) yang berbasis PHP dan MySQL yang dapat dikelola dengan sistem CMS *(Content Management System)*, dimana untuk penggunaannya bersifat terbuka *(OpenSource)* dan gratis untuk siapa saja. Aplikasi webstore ini digunakan dengan lisensi GNU *(General Public License).*
@@ -159,7 +160,7 @@
 # Konfigurasi
 [`^ Kembali ke atas ^`](#)
 ### Menambah Plugin
-1. Sebelum melakukan instalasi plugin, terlebih dahulu kita harus membuat akun opencart di [Register OpenCart](https://www.opencart.com/index.php?route=account/register), untuk mendapatkan `API Marketplace`
+1. Sebelum melakukan instalasi plugin, terlebih dahulu kita harus membuat akun opencart di [Register OpenCart] <br/>(https://www.opencart.com/index.php?route=account/register), untuk mendapatkan `API Marketplace`
 
 2. Isi data dengan sesuai dan pilih register
    ![0](https://user-images.githubusercontent.com/39584996/75620757-5586cc00-5bbf-11ea-8a46-6b38f8daf5c2.png)
