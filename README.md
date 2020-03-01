@@ -159,7 +159,19 @@
    ![0](https://user-images.githubusercontent.com/39584996/75612666-55071a80-5b58-11ea-8148-9e6a8a2b8d38.png)
 2. Mengganti Gambar dan Nama
    ![0 1](https://user-images.githubusercontent.com/39584996/75612665-53d5ed80-5b58-11ea-8d2b-0aa3961be93c.png)
-   
+
+# Otomatisasi
+[`^ Kembali ke atas ^`](#)
+Terdapat beberapa cara dalam melakukan otomatisasi pemasangan **OpenCart** atau beberapa CMS lain, yaitu dengan penginstalan dengan menjalankan `script shell` yang biasanya berekstensi `.sh`, akan tetapi sedikit rumit untuk dilakukan karena harus memahami cara membuat dari script tersebut. 
+Lalu alternatif lain yang lebih mudah adalah menggunakan bantuan dari fitur yang biasanya terdapat pada `panel hosting` dari `web-hosting provider` itu sendiri, mereka akan menginstal script secara otomatis pada website tujuan, yang biasa dipakai oleh banyak kalangan adalah `Installatron`, karena mudah tanpa perlu melakukan login, untuk melakukan instalasinya, yang perlu dilakukan adalah :
+1. Kunjungi link ini [Installatron](https://installatron.com/opencart), lalu pilih menu `Install this application` yang berada dipojok kanan atas
+    ![1](https://user-images.githubusercontent.com/39584996/75619924-e0ae9480-5bb4-11ea-91eb-bce3c5124aa5.png)
+2. Lakukan pengisian data dengan sesuai, lalu tinggal lakukan penginstalan
+    ![2](https://user-images.githubusercontent.com/39584996/75619927-e310ee80-5bb4-11ea-8e5a-05902eb6f566.png)
+    ![3](https://user-images.githubusercontent.com/39584996/75619928-e3a98500-5bb4-11ea-9ffc-ac3966ef8dce.png)
+    ![4](https://user-images.githubusercontent.com/39584996/75619929-e4421b80-5bb4-11ea-832f-9885feb11ea5.png)
+3. Tunggu hingga proses instalasi selesai dilakukan
+
 # Cara Penggunaan
 [`^ Kembali ke atas ^`](#)
 Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan interface yang *User Friendly*. Berikut penggunaan lebih jelasnya :
