@@ -47,7 +47,7 @@
     ```
 4. Konfigurasi MariaDB
     ```
-    $ mysql_secure_installatio
+    $ mysql_secure_installation
     ```
     * **Enter Password** (enter saja)
     * **Set root password? [Y/n]:** Ketika Y dan tekan enter
