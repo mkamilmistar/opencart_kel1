@@ -10,6 +10,7 @@
 <br/>
 # Instalasi
 ### Kebutuhan Sistem
+* Unix, Linux atau Windows
 * Web Server (Apache) 2.x+
 * PHP 5.4+
 * Database (MariaDB / MySQL)
