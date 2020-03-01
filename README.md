@@ -160,9 +160,9 @@
 # Konfigurasi
 [`^ Kembali ke atas ^`](#)
 ### Menambah Plugin
-1. Sebelum melakukan instalasi plugin, terlebih dahulu kita harus membuat akun opencart di [Register OpenCart] <br/>(https://www.opencart.com/index.php?route=account/register), untuk mendapatkan `API Marketplace`
+1. Sebelum melakukan instalasi plugin, terlebih dahulu kita harus membuat akun opencart di [Register OpenCart](https://www.opencart.com/index.php?route=account/register), untuk mendapatkan `API Marketplace`
 
-2. Isi data dengan sesuai dan pilih register
+2. Isi data dengan sesuai dan pilih register <br/>
    ![0](https://user-images.githubusercontent.com/39584996/75620757-5586cc00-5bbf-11ea-8a46-6b38f8daf5c2.png)
    
 3. Dimenu akun, masuk ke **Purchase** dan pilih **Your Store**
