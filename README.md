@@ -6,7 +6,8 @@
 # About OpenCart
 **OpenCart** merupakan aplikasi webstore (toko online) yang berbasis PHP dan MySQL yang dapat dikelola dengan sistem CMS *(Content Management System)*, dimana untuk penggunaannya bersifat terbuka *(OpenSource)* dan gratis untuk siapa saja. Aplikasi webstore ini digunakan dengan lisensi GNU *(General Public License).*
 
-[`^ Kembali ke atas ^`](#) <br/>
+[`^ Kembali ke atas ^`](#)
+<br/>
 # Instalasi
 ### Kebutuhan Sistem
 * Web Server (Apache)
@@ -23,7 +24,9 @@
 * Xml
 
 ### Proses Instalasi
-[`^ Kembali ke atas ^`](#)
+
+[`^ Kembali ke atas ^`](#) 
+<br/>
 1. Nyalakan server, lalu login kedalam server dengan menggunakan SSH
     ```
     $ ssh student@localhost -p 2200
@@ -112,7 +115,7 @@
     CustomLog /var/log/apache2/your-domain.com-access_log common
     </VirtualHost>
     ```
-  Save dan keluar dengan ```:wq```
+  Save dan keluar dengan menekan tompol escape dan ketik ```:wq```
 
 11. Edit file php.ini di etc/php/7.2/apache2/php.ini, sesuaikan dengan dibawah ini:
     ```
@@ -158,7 +161,9 @@
     ```
 
 # Konfigurasi
-[`^ Kembali ke atas ^`](#)<br/>
+
+[`^ Kembali ke atas ^`](#)
+<br/>
 ### Menambah Plugin
 1. Sebelum melakukan instalasi plugin, terlebih dahulu kita harus membuat akun opencart di [Register OpenCart](https://www.opencart.com/index.php?route=account/register), untuk mendapatkan `API Marketplace`
 
@@ -197,7 +202,9 @@
    ![0 1](https://user-images.githubusercontent.com/39584996/75612665-53d5ed80-5b58-11ea-8d2b-0aa3961be93c.png)
 
 # Maintenance
-[`^ Kembali ke atas ^`](#) <br/>
+
+[`^ Kembali ke atas ^`](#) 
+<br/>
 Maintenance yang bisa dilakukan oleh **OpenCart** adalah melakukan backup/restore data dan setting dari website tersebut, hal ini merupakan kegiatan yang sangat penting apabila terjadi sesuati pada website kita. Cara yang dilakukan untuk melakukan backup adalah :
 1. Dibagian sidebar navigation, pilih menu **System**, lalu **Maintenance** dan pilih **Backup / Restore**, untuk backup, kita bisa memilih ingin membackup data apa saja
    ![1](https://user-images.githubusercontent.com/39584996/75620040-4e0ef500-5bb6-11ea-940a-f8d34fe69f62.png)
@@ -221,7 +228,9 @@ Lalu alternatif lain yang lebih mudah adalah menggunakan bantuan dari fitur yang
 3. Tunggu hingga proses instalasi selesai dilakukan
 
 # Cara Penggunaan
-[`^ Kembali ke atas ^`](#) <br/>
+
+[`^ Kembali ke atas ^`](#) 
+<br/>
 Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan interface yang *User Friendly*. Berikut penggunaan lebih jelasnya :
 1. Lakukan login ke administrator <br/>
    ![login](https://user-images.githubusercontent.com/39584996/75612373-52ef8c80-5b55-11ea-8d00-1a6f36e824fb.png)
@@ -268,7 +277,9 @@ Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan int
    ![27](https://user-images.githubusercontent.com/39584996/75613122-939ed400-5b5c-11ea-8914-7d1365769bee.png)
 
 # Pembahasan
-[`^ Kembali ke atas ^`](#) <br/>
+
+[`^ Kembali ke atas ^`](#) 
+<br/>
 **OpenCart** memiliki fitur yang sangat lengkap, yang suport dengan berbagai macam jenis database, seperti `MySQL` atau `MariaDB`, sehingga memiliki banyak **kelebihan** seperti diantaranya:
 * *Simple* dalam setup cms tersebut, seperti konfigurasi awal dan pengaturan tampilan
 * *Performa dan Usability* yang baik, openchart sendiri menggunakan `AJAX technology` yang membuat load time lebih sedikit
@@ -292,7 +303,9 @@ Akan tetapi, dibandingkan dengan e-commerce lain seperti **Magento**, CMS ini me
 * Sama-sama mudah dikustomisasi
 
 # Referensi
+
 [`^ Kembali ke atas ^`](#)
+<br/>
 1. [About OpenCart](https://www.opencart.com/index.php?route=cms/company)
 2. [How to Install OpenCart On Ubuntu 18.04 Server](https://cloudcone.com/docs/article/install-opencart-on-ubuntu-18-04-server/)
 3. [5 Benefits That Make OpenCart Rock](https://www.shopping-cart-migration.com/carts-reviews/opencart/12797-5-benefits-that-make-opencart-rock)
