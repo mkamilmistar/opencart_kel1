@@ -155,6 +155,28 @@
 
 # Konfigurasi
 [`^ Kembali ke atas ^`](#)
+### Menambah Plugin
+1. Sebelum melakukan instalasi plugin, terlebih dahulu kita harus membuat akun opencart di [Register OpenCart](https://www.opencart.com/index.php?route=account/register), untuk mendapatkan `API Marketplace`
+2. Isi data dengan sesuai dan pilih register
+   ![0](https://user-images.githubusercontent.com/39584996/75620757-5586cc00-5bbf-11ea-8a46-6b38f8daf5c2.png)
+3. Dimenu akun, masuk ke **Purchase** dan pilih **Your Store**
+   ![0 1](https://user-images.githubusercontent.com/39584996/75620731-017be780-5bbf-11ea-9e3c-6a2deb731389.png)
+4. Pilih **Add store**
+   ![0 2](https://user-images.githubusercontent.com/39584996/75620732-02ad1480-5bbf-11ea-9dca-158d89659d59.png)
+5. Masukkan domain website kita
+   ![0 3](https://user-images.githubusercontent.com/39584996/75620733-03de4180-5bbf-11ea-84e9-a845d4b3c471.png)
+6. Pilih menu lihat, disitu akan ditampilkan API Marketplace dan kemudian disalin
+   ![0 4](https://user-images.githubusercontent.com/39584996/75620734-050f6e80-5bbf-11ea-815b-ad98c0b5430f.png)
+7. Lalu kembali ke admin website kita, dibagian Sidebar, masuk ke menu **Extentions** dan pilih **Marketplace**
+8. Tinggal pilih plugin atau extention yang ingin dipasang di website kita, misalnya disini kita ingin menambahkan fitur `Customer Service`, kita bisa melakukan filtering, memasukkan kata kunci untuk mencari plugin yang kita butuhkan.
+   ![2](https://user-images.githubusercontent.com/39584996/75620784-c0d09e00-5bbf-11ea-8bd6-cae1965d0dea.png)
+9. Lalu pilih Marketplace API yang berada dipojok kanan atas, logo gear, masukkan secret API dan username
+   ![3](https://user-images.githubusercontent.com/39584996/75620786-c332f800-5bbf-11ea-9d42-9024d0ff4c59.png)
+10. Masuk ke menu download dan pilih install
+   ![4](https://user-images.githubusercontent.com/39584996/75620903-6a179400-5bc0-11ea-9208-92f744bf92c6.png)
+11. Tunggu hingga proses selesai
+
+### Ubah Profil
 1. Melakukan pengubahan nama user tampilan, dengan menekan ikon user dipojok kanan atas
    ![0](https://user-images.githubusercontent.com/39584996/75612666-55071a80-5b58-11ea-8148-9e6a8a2b8d38.png)
 2. Mengganti Gambar dan Nama
