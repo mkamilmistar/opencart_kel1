@@ -1,5 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/39584996/75613465-9a2f4a80-5b60-11ea-994c-28e81d587fef.jpg" width="800"></p>
 
+| [About OpenCart](https://github.com/mkamilmistar/opencart_kel1#about-opencart) | [Konfirgurasi](https://github.com/mkamilmistar/opencart_kel1#konfigurasi) | [Maintenance](https://github.com/mkamilmistar/opencart_kel1#maintenance) | [Otomatisasi](https://github.com/mkamilmistar/opencart_kel1#maintenance) | [Cara Penggunaan](https://github.com/mkamilmistar/opencart_kel1#cara-penggunaan) | [Pembahasan](https://github.com/mkamilmistar/opencart_kel1#pembahasan) | [Referensi](https://github.com/mkamilmistar/opencart_kel1#pembahasan) | 
+
 # About OpenCart
 **OpenCart** merupakan aplikasi webstore (toko online) yang berbasis PHP dan MySQL yang dapat dikelola dengan sistem CMS *(Content Management System)*, dimana untuk penggunaannya bersifat terbuka *(OpenSource)* dan gratis untuk siapa saja. Aplikasi webstore ini digunakan dengan lisensi GNU *(General Public License).*
 
@@ -248,20 +250,20 @@ Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan int
    ![16](https://user-images.githubusercontent.com/39584996/75612874-3f92f000-5b5a-11ea-9e69-3577e9683d38.png)
 13. Informations, page informasi yang ditampilkan ke user
    ![17](https://user-images.githubusercontent.com/39584996/75612875-402b8680-5b5a-11ea-808b-55e59987bdc9.png)
-14. Dan masih banyak menu-menu lain yang bermanfaat banyak untuk pengelolaan web ini, seperti **Extentions** yang berguna untuk menambah add-ons untuk menunjang kinerja web tersebut,
-   ![18](https://user-images.githubusercontent.com/39584996/75613009-7584a400-5b5b-11ea-867c-0aada8d24c3e.png)
+14. Dan masih banyak menu-menu lain yang bermanfaat banyak untuk pengelolaan web ini, seperti **Extentions** yang berguna untuk menambah add-ons untuk menunjang kinerja web tersebut.<br/>
+   ![18](https://user-images.githubusercontent.com/39584996/75613009-7584a400-5b5b-11ea-867c-0aada8d24c3e.png)<br/>
    ![20](https://user-images.githubusercontent.com/39584996/75613026-a5cc4280-5b5b-11ea-8ce1-de0457c512de.png)
-15. Lalu ada **Design** untuk mengatur tampilan dari web tersebut, baik menggunakan thema ataupun layout editor
+15. Lalu ada **Design** untuk mengatur tampilan dari web tersebut, baik menggunakan thema ataupun layout editor<br/>
    ![20](https://user-images.githubusercontent.com/39584996/75613026-a5cc4280-5b5b-11ea-8ce1-de0457c512de.png)
-16. Lalu ada **Sales** yang mengatur manajemen orderan barang, seperti pengembalian, order yang terjadi, dan lain-lain
+16. Lalu ada **Sales** yang mengatur manajemen orderan barang, seperti pengembalian, order yang terjadi, dan lain-lain<br/>
    ![22](https://user-images.githubusercontent.com/39584996/75613060-0b203380-5b5c-11ea-9cad-be39bfa99d8e.png)
-17. Lalu ada **Customers** yang berisi manajemen user yang terdaftar
+17. Lalu ada **Customers** yang berisi manajemen user yang terdaftar <br/>
    ![23](https://user-images.githubusercontent.com/39584996/75613078-360a8780-5b5c-11ea-9bdc-e3e20423d08a.png)
-18. **Marketing**, mengatur marketing yang ada diweb
+18. **Marketing**, mengatur marketing yang ada diweb <br/>
    ![25](https://user-images.githubusercontent.com/39584996/75613087-5a666400-5b5c-11ea-9bc0-f4d2f7360f03.png)
-19. **Reports**, berisikan laporan mengenai website
+19. **Reports**, berisikan laporan mengenai website <br/>
    ![26](https://user-images.githubusercontent.com/39584996/75613105-6fdb8e00-5b5c-11ea-9a88-b9c39ae59353.png)
-20. **System**, menu untuk mempermudah konfigurasi website, baik itu konfigurasi umum maupun konfigurasi lanjutan
+20. **System**, menu untuk mempermudah konfigurasi website, baik itu konfigurasi umum maupun konfigurasi lanjutan <br/>
    ![27](https://user-images.githubusercontent.com/39584996/75613122-939ed400-5b5c-11ea-8914-7d1365769bee.png)
 
 # Pembahasan
