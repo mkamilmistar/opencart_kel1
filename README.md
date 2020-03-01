@@ -160,6 +160,17 @@
 2. Mengganti Gambar dan Nama
    ![0 1](https://user-images.githubusercontent.com/39584996/75612665-53d5ed80-5b58-11ea-8d2b-0aa3961be93c.png)
 
+# Maintenance
+Maintenance yang bisa dilakukan oleh **OpenCart** adalah melakukan backup/restore data dan setting dari website tersebut, hal ini merupakan kegiatan yang sangat penting apabila terjadi sesuati pada website kita. Cara yang dilakukan untuk melakukan backup adalah :
+1. Dibagian sidebar navigation, pilih menu **System**, lalu **Maintenance** dan pilih **Backup / Restore**, untuk backup, kita bisa memilih ingin membackup data apa saja
+   ![1](https://user-images.githubusercontent.com/39584996/75620040-4e0ef500-5bb6-11ea-940a-f8d34fe69f62.png)
+2. Lalu tekan `Export`
+3. Dan backup data tersebut akan terdownload dalam format `.sql`
+   ![2](https://user-images.githubusercontent.com/39584996/75620056-7c8cd000-5bb6-11ea-880e-0122b3f7b7b1.png)
+4. Untuk melakukan restore, tinggal masuk ke menu **Restore** dan tinggal import backup yang telah kita lakukan sebelumnya
+   ![3](https://user-images.githubusercontent.com/39584996/75620083-b6f66d00-5bb6-11ea-8f7f-6b8e0a3a3e1d.png)
+5. Tunggu hingga proses import selesai
+
 # Otomatisasi
 [`^ Kembali ke atas ^`](#)
 Terdapat beberapa cara dalam melakukan otomatisasi pemasangan **OpenCart** atau beberapa CMS lain, yaitu dengan penginstalan dengan menjalankan `script shell` yang biasanya berekstensi `.sh`, akan tetapi sedikit rumit untuk dilakukan karena harus memahami cara membuat dari script tersebut. 
