@@ -232,6 +232,7 @@ Lalu alternatif lain yang lebih mudah adalah menggunakan bantuan dari fitur yang
 
 [`^ Kembali ke atas ^`](#) 
 <br/>
+<br/>
 Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan interface yang *User Friendly*. Berikut penggunaan lebih jelasnya :
 1. Lakukan login ke administrator <br/>
    ![login](https://user-images.githubusercontent.com/39584996/75612373-52ef8c80-5b55-11ea-8d00-1a6f36e824fb.png)
@@ -280,6 +281,7 @@ Cara penggunaan CMS dari **OpenCart** ini sangatlah mudah dengan menyediakan int
 # Pembahasan
 
 [`^ Kembali ke atas ^`](#) 
+<br/>
 <br/>
 **OpenCart** memiliki fitur yang sangat lengkap, yang suport dengan berbagai macam jenis database, seperti `MySQL` atau `MariaDB`, sehingga memiliki banyak **kelebihan** seperti diantaranya:
 * *Simple* dalam setup cms tersebut, seperti konfigurasi awal dan pengaturan tampilan
