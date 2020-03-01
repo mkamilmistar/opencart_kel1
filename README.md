@@ -261,3 +261,4 @@ Akan tetapi, dibandingkan dengan e-commerce lain seperti **Magento**, CMS ini me
 3. [5 Benefits That Make OpenCart Rock](https://www.shopping-cart-migration.com/carts-reviews/opencart/12797-5-benefits-that-make-opencart-rock)
 4. [Kelebihan & Kekurangan OpenCart](http://cyber-blog95.blogspot.com/2016/04/kelebihan-kekurangan-opencart.html)
 5. [Magento vs OpenCart](https://magenticians.com/magento-vs-opencart-comparison/)
+6. [OpenCart with Installatron](https://installatron.com/opencart)
