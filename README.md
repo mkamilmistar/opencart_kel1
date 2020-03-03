@@ -2,7 +2,7 @@
 
 | Kelompok 1 | Waktu Praktikum: Rabu, 15.30-17.30 |
 | --- | --- |
-| 1. Muhamad Guntur (G64170020)<br/> 2. Kamil (G64170019) <br/> 3. Nabil Ahmad (G64170057) <br/> 4. Elia Samuel (G64170060 | Komunikasi Data dan Jaringan Komputer (KOM312)| 
+| 1. Muhamad Guntur (G64170020)<br/> 2. M. Kamil (G64170019) <br/> 3. Nabil Ahmad (G64170057) <br/> 4. Elia Samuel (G64170060 | Komunikasi Data dan Jaringan Komputer (KOM312)| 
 
 | [About OpenCart](https://github.com/mkamilmistar/opencart_kel1#about-opencart) | [Konfirgurasi](https://github.com/mkamilmistar/opencart_kel1#konfigurasi) | [Maintenance](https://github.com/mkamilmistar/opencart_kel1#maintenance) | [Otomatisasi](https://github.com/mkamilmistar/opencart_kel1#maintenance) | [Cara Penggunaan](https://github.com/mkamilmistar/opencart_kel1#cara-penggunaan) | [Pembahasan](https://github.com/mkamilmistar/opencart_kel1#pembahasan) | [Referensi](https://github.com/mkamilmistar/opencart_kel1#pembahasan) | 
 | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- |
