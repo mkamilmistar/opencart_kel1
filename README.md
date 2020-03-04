@@ -40,10 +40,10 @@
 2. Lalu set repository server
     ```
     $ sudo tee /etc/apt/sources.list << !
-    deb http://repo.x.ac.id/ubuntu bionic main restricted universe multiverse
-    deb http://repo.x.ac.id/ubuntu bionic-updates main restricted universe multiverse
-    deb http://repo.x.ac.id/ubuntu bionic-security main restricted universe multiverse
-    !   
+    deb http://repo.apps.cs.ipb.ac.id/ubuntu bionic          main restricted universe multiverse
+    deb http://repo.apps.cs.ipb.ac.id/ubuntu bionic-updates  main restricted universe multiverse
+    deb http://repo.apps.cs.ipb.ac.id/ubuntu bionic-security main restricted universe multiverse
+    !  
     ```
 
 3. Lakukan pengecekan update terhadap sistem, lalu lakukan penginstalan *requirement* untuk **OpenCart** seperti **PHP, Apache, MariaDB serta PHP modul yang dibutuhkan.** <br/>
